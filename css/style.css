@@ -14,7 +14,7 @@ body{
     font-size: 16px;
 }
 #wrap{
-   min-width: 1700px;
+   min-width: 1400px;
     overflow: hidden;
 }
 #kakao{
@@ -24,7 +24,7 @@ body{
 }
 /* header */
 #header{
-    width: 1650px;
+    width: 1400px;
     height: 70px;
     margin: 0px auto;
     display: flex;
