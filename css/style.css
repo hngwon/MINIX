@@ -20,11 +20,19 @@ body{
 #kakao{
     background-color: #000;
     height: 40px;
-    text-align: center;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+#kakao a{
+    padding-top: 8px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
 }
 #kakao img{
-    width: 100%;
-    margin: 0px auto;
+    width: 20px;
+    margin-right: 10px;
 }
 /* header */
 #header{
