@@ -13,6 +13,10 @@ body{
     font-family: 맑은고딕;
     font-size: 16px;
 }
+#wrap{
+   min-width: 1400px;
+    overflow: hidden;
+}
 #kakao{
     background-color: #000;
     height: 40px;
