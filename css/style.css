@@ -24,7 +24,7 @@ body{
 }
 /* header */
 #header{
-    width: 1400px;
+    width: 1398px;
     height: 70px;
     margin: 0px auto;
     display: flex;
@@ -146,7 +146,7 @@ padding-top: 50px;
 }
 /* <!-- footer_s--> */
 #footer{
-    width: 1640px;
+    width: 1398px;
     margin: 0px auto;  
     padding-top: 20px;
     
