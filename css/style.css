@@ -22,9 +22,13 @@ body{
     height: 40px;
     text-align: center;
 }
+#kakao img{
+    width: 100%;
+    margin: 0px auto;
+}
 /* header */
 #header{
-    width: 1398px;
+    width: 1280px;
     height: 70px;
     margin: 0px auto;
     display: flex;
@@ -43,7 +47,7 @@ body{
 .gnb li{
     display: block;
     text-align: center;
-    margin: 24px;
+    margin: 20px;
 }
 /* 호버시 */
 .gnb>li:hover{
@@ -55,7 +59,7 @@ body{
 }
 .id>li{
     display: block;
-    margin: 24px 10px;
+    margin: 20px 10px;
 }
 /* 호버시 */
 .id>li:hover ,.on{
@@ -146,7 +150,7 @@ padding-top: 50px;
 }
 /* <!-- footer_s--> */
 #footer{
-    width: 1398px;
+    width: 1280px;
     margin: 0px auto;  
     padding-top: 20px;
     
